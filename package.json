@@ -1,0 +1,11 @@
+{
+  "name": "gpt-playground",
+  "version": "1.0.0",
+  "description": "playground for gpt model training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason McAffee",
+  "license": "ISC"
+}
